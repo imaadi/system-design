@@ -1,0 +1,9 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Personal context (resume, cover letter, employer work reports) — never push
+for_context_purpose/
