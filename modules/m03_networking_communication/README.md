@@ -142,9 +142,10 @@ against **latency and head-of-line blocking** — a great story to tell:
   **application-layer HOL blocking**: a slow response blocks the ones behind it. Browsers worked
   around it by opening **~6 parallel connections per domain** (and "domain sharding" hacks).
 - **HTTP/2:** **multiplexing** — many concurrent requests (**streams**) interleaved over **one** TCP
-  connection, plus **binary framing** and **header compression (HPACK)** and **server push**. Solves
-  *application-layer* HOL blocking. **But** it still rides one TCP connection, so a single lost packet
-  triggers **TCP-layer HOL blocking** that stalls *all* streams. (The villain returns one layer down.)
+  connection, plus **binary framing** and **header compression (HPACK)** (and **server push**, which
+  turned out a flop and is now largely deprecated). Solves *application-layer* HOL blocking. **But** it
+  still rides one TCP connection, so a single lost packet triggers **TCP-layer HOL blocking** that
+  stalls *all* streams. (The villain returns one layer down.)
 - **HTTP/3:** runs over **QUIC**, which is built on **UDP**. QUIC implements its own streams,
   reliability, and *per-stream* ordering, so a lost packet only stalls *its own* stream — **no
   cross-stream HOL blocking**. It also folds the transport + TLS 1.3 handshake into ~**1 RTT (or

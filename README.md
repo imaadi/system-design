@@ -48,8 +48,11 @@ system_design/
 │       └── EXERCISES.md           ← practice problems (try before solutions!)
 ├── solutions/
 │   └── mNN_topic/README.md        ← worked solutions, kept separate so you practice honestly
-└── for_context_purpose/           ← your resume + Questimate/DCE write-ups (the "why")
+└── .gitignore                     ← excludes OS junk + personal context from the repo
 ```
+> Personal context (resume, Questimate/DCE write-ups) is kept **outside this repo** (gitignored), so
+> nothing private is published. The 🏭 "from your systems" callouts in the modules carry forward the
+> relevant lessons.
 
 ---
 
@@ -125,10 +128,10 @@ Legend: ⭐ = especially high-value for AI/ML/LLM interviews · 🏭 = maps dire
 |---|---|
 | L1 cache ref | ~1 ns |
 | Main memory (RAM) ref | ~100 ns |
-| Read 1 MB from RAM | ~10–25 µs |
-| SSD random read | ~100 µs |
+| Read 1 MB from RAM | ~3–25 µs |
+| SSD random read | ~16–100 µs (NVMe → SATA) |
 | Round trip within a datacenter | ~0.5 ms |
-| Read 1 MB from SSD | ~1 ms |
+| Read 1 MB from SSD | ~0.3–1 ms |
 | Disk (HDD) seek | ~10 ms |
 | Round trip CA ↔ Netherlands | ~150 ms |
 | 1 day | ~86,400 s ≈ **10⁵ s** |

@@ -102,4 +102,5 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
 - Build the next module in full (all 4 files) when he says "Module N".
 - Keep weaving in **Questimate/DCE** examples — they're the interview differentiator.
 - Don't dump everything at once; depth + one module at a time is the agreed rhythm.
-- The context source files are in `for_context_purpose/` (resume + Questimate/DCE write-ups).
+- The context source files (resume + Questimate/DCE write-ups) are kept **outside the repo** at
+  `../for_context_purpose/` (gitignored, not published). Their lessons live on in the 🏭 callouts.
