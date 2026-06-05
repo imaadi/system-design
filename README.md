@@ -148,7 +148,8 @@ Legend: ⭐ = especially high-value for AI/ML/LLM interviews · 🏭 = maps dire
 - ✅ **m02 — Core Fundamentals** (built)
 - ✅ **m03 — Networking & Communication** (built)
 - ✅ **m04 — Databases & Storage** (built)
-- ⬜ m05–m36 (say **"Module 5"** to build the next one)
+- ✅ **m05 — Replication, Partitioning & Sharding** (built)
+- ⬜ m06–m36 (say **"Module 6"** to build the next one)
 
 > Built one module at a time, in depth, with cross-questions and exercises — the way the AI/ML
 > notes were built. Quality over speed.

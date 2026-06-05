@@ -93,9 +93,10 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
 - **m02 — Core Fundamentals** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m03 — Networking & Communication** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m04 — Databases & Storage** (README + CROSS_QUESTIONS + EXERCISES + solutions).
+- **m05 — Replication, Partitioning & Sharding** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 
 **PENDING ⬜**
-- m05–m36. Build **on the learner's signal** ("Module 5", etc.), one at a time, in depth.
+- m06–m36. Build **on the learner's signal** ("Module 6", etc.), one at a time, in depth.
 
 ---
 
