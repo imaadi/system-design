@@ -92,9 +92,10 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
 - **m01 — Interview Framework** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m02 — Core Fundamentals** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m03 — Networking & Communication** (README + CROSS_QUESTIONS + EXERCISES + solutions).
+- **m04 — Databases & Storage** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 
 **PENDING ⬜**
-- m04–m36. Build **on the learner's signal** ("Module 4", etc.), one at a time, in depth.
+- m05–m36. Build **on the learner's signal** ("Module 5", etc.), one at a time, in depth.
 
 ---
 
