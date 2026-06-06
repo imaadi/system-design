@@ -95,9 +95,10 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
 - **m04 — Databases & Storage** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m05 — Replication, Partitioning & Sharding** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m06 — Caching & CDNs** (README + CROSS_QUESTIONS + EXERCISES + solutions).
+- **m07 — Load Balancing & Proxies** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 
 **PENDING ⬜**
-- m07–m36. Build **on the learner's signal** ("Module 7", etc.), one at a time, in depth.
+- m08–m36. Build **on the learner's signal** ("Module 8", etc.), one at a time, in depth.
 
 ---
 

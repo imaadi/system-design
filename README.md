@@ -150,7 +150,8 @@ Legend: ⭐ = especially high-value for AI/ML/LLM interviews · 🏭 = maps dire
 - ✅ **m04 — Databases & Storage** (built)
 - ✅ **m05 — Replication, Partitioning & Sharding** (built)
 - ✅ **m06 — Caching & CDNs** (built)
-- ⬜ m07–m36 (say **"Module 7"** to build the next one)
+- ✅ **m07 — Load Balancing & Proxies** (built)
+- ⬜ m08–m36 (say **"Module 8"** to build the next one)
 
 > Built one module at a time, in depth, with cross-questions and exercises — the way the AI/ML
 > notes were built. Quality over speed.
