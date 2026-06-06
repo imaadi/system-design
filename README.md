@@ -155,7 +155,8 @@ Legend: ⭐ = especially high-value for AI/ML/LLM interviews · 🏭 = maps dire
 - ✅ **m09 — Distributed Systems Theory** (built)
 - ✅ **m10 — Reliability, Observability & Operations** (built) — *Part 1 complete ✅*
 - ✅ **m11 — URL Shortener (TinyURL)** (built) — *Part 2 begins*
-- ⬜ m12–m36 (say **"Module 12"** to build the next one)
+- ✅ **m12 — Rate Limiter** (built)
+- ⬜ m13–m36 (say **"Module 13"** to build the next one)
 
 > Built one module at a time, in depth, with cross-questions and exercises — the way the AI/ML
 > notes were built. Quality over speed.

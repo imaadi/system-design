@@ -103,10 +103,11 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
 - **m11 — URL Shortener (TinyURL)** (README + CROSS_QUESTIONS + EXERCISES + solutions). *Part 2 begins —
   design-problem modules: the README is a full worked m01-framework walkthrough; CROSS_QUESTIONS drills
   follow-ups; EXERCISES has extensions/variations.*
+- **m12 — Rate Limiter** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 
 **PENDING ⬜**
-- m12–m36 (rest of Part 2 classic problems, Part 3 ML, Part 4 LLM, Part 5 capstone). Build **on the
-  learner's signal** ("Module 12", etc.), one at a time, in depth.
+- m13–m36 (rest of Part 2 classic problems, Part 3 ML, Part 4 LLM, Part 5 capstone). Build **on the
+  learner's signal** ("Module 13", etc.), one at a time, in depth.
 
 ---
 
