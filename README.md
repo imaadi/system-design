@@ -158,7 +158,8 @@ Legend: ⭐ = especially high-value for AI/ML/LLM interviews · 🏭 = maps dire
 - ✅ **m12 — Rate Limiter** (built)
 - ✅ **m13 — News Feed / Twitter Timeline** (built)
 - ✅ **m14 — Chat System (WhatsApp/Slack)** (built)
-- ⬜ m15–m36 (say **"Module 15"** to build the next one)
+- ✅ **m15 — Notification System** (built)
+- ⬜ m16–m36 (say **"Module 16"** to build the next one)
 
 > Built one module at a time, in depth, with cross-questions and exercises — the way the AI/ML
 > notes were built. Quality over speed.

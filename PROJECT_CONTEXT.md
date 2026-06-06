@@ -106,10 +106,11 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
 - **m12 — Rate Limiter** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m13 — News Feed / Twitter Timeline** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m14 — Chat System (WhatsApp/Slack)** (README + CROSS_QUESTIONS + EXERCISES + solutions).
+- **m15 — Notification System** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 
 **PENDING ⬜**
-- m15–m36 (rest of Part 2 classic problems, Part 3 ML, Part 4 LLM, Part 5 capstone). Build **on the
-  learner's signal** ("Module 15", etc.), one at a time, in depth.
+- m16–m36 (rest of Part 2 classic problems, Part 3 ML, Part 4 LLM, Part 5 capstone). Build **on the
+  learner's signal** ("Module 16", etc.), one at a time, in depth.
 
 ---
 
