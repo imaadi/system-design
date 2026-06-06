@@ -97,9 +97,10 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
 - **m06 — Caching & CDNs** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m07 — Load Balancing & Proxies** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m08 — Messaging, Queues & Stream Processing** (README + CROSS_QUESTIONS + EXERCISES + solutions).
+- **m09 — Distributed Systems Theory** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 
 **PENDING ⬜**
-- m09–m36. Build **on the learner's signal** ("Module 9", etc.), one at a time, in depth.
+- m10–m36. Build **on the learner's signal** ("Module 10", etc.), one at a time, in depth.
 
 ---
 

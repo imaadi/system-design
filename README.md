@@ -152,7 +152,8 @@ Legend: ⭐ = especially high-value for AI/ML/LLM interviews · 🏭 = maps dire
 - ✅ **m06 — Caching & CDNs** (built)
 - ✅ **m07 — Load Balancing & Proxies** (built)
 - ✅ **m08 — Messaging, Queues & Stream Processing** (built)
-- ⬜ m09–m36 (say **"Module 9"** to build the next one)
+- ✅ **m09 — Distributed Systems Theory** (built)
+- ⬜ m10–m36 (say **"Module 10"** to build the next one)
 
 > Built one module at a time, in depth, with cross-questions and exercises — the way the AI/ML
 > notes were built. Quality over speed.
