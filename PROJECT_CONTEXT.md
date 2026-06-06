@@ -105,10 +105,11 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
   follow-ups; EXERCISES has extensions/variations.*
 - **m12 — Rate Limiter** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m13 — News Feed / Twitter Timeline** (README + CROSS_QUESTIONS + EXERCISES + solutions).
+- **m14 — Chat System (WhatsApp/Slack)** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 
 **PENDING ⬜**
-- m14–m36 (rest of Part 2 classic problems, Part 3 ML, Part 4 LLM, Part 5 capstone). Build **on the
-  learner's signal** ("Module 14", etc.), one at a time, in depth.
+- m15–m36 (rest of Part 2 classic problems, Part 3 ML, Part 4 LLM, Part 5 capstone). Build **on the
+  learner's signal** ("Module 15", etc.), one at a time, in depth.
 
 ---
 
