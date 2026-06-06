@@ -107,10 +107,11 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
 - **m13 — News Feed / Twitter Timeline** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m14 — Chat System (WhatsApp/Slack)** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m15 — Notification System** (README + CROSS_QUESTIONS + EXERCISES + solutions).
+- **m16 — Typeahead / Autocomplete + Search** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 
 **PENDING ⬜**
-- m16–m36 (rest of Part 2 classic problems, Part 3 ML, Part 4 LLM, Part 5 capstone). Build **on the
-  learner's signal** ("Module 16", etc.), one at a time, in depth.
+- m17–m36 (rest of Part 2 classic problems, Part 3 ML, Part 4 LLM, Part 5 capstone). Build **on the
+  learner's signal** ("Module 17", etc.), one at a time, in depth.
 
 ---
 
