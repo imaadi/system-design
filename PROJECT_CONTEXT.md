@@ -98,9 +98,12 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
 - **m07 — Load Balancing & Proxies** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m08 — Messaging, Queues & Stream Processing** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m09 — Distributed Systems Theory** (README + CROSS_QUESTIONS + EXERCISES + solutions).
+- **m10 — Reliability, Observability & Operations** (README + CROSS_QUESTIONS + EXERCISES + solutions).
+  → **PART 0 + PART 1 COMPLETE (m01–m10): foundations + all building blocks.**
 
 **PENDING ⬜**
-- m10–m36. Build **on the learner's signal** ("Module 10", etc.), one at a time, in depth.
+- m11–m36 (Part 2 classic problems, Part 3 ML, Part 4 LLM, Part 5 capstone). Build **on the learner's
+  signal** ("Module 11", etc.), one at a time, in depth.
 
 ---
 
