@@ -160,7 +160,8 @@ Legend: ⭐ = especially high-value for AI/ML/LLM interviews · 🏭 = maps dire
 - ✅ **m14 — Chat System (WhatsApp/Slack)** (built)
 - ✅ **m15 — Notification System** (built)
 - ✅ **m16 — Typeahead / Autocomplete + Search** (built)
-- ⬜ m17–m36 (say **"Module 17"** to build the next one)
+- ✅ **m17 — Web Crawler** (built)
+- ⬜ m18–m36 (say **"Module 18"** to build the next one)
 
 > Built one module at a time, in depth, with cross-questions and exercises — the way the AI/ML
 > notes were built. Quality over speed.
