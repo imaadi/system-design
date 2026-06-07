@@ -161,7 +161,8 @@ Legend: ⭐ = especially high-value for AI/ML/LLM interviews · 🏭 = maps dire
 - ✅ **m15 — Notification System** (built)
 - ✅ **m16 — Typeahead / Autocomplete + Search** (built)
 - ✅ **m17 — Web Crawler** (built)
-- ⬜ m18–m36 (say **"Module 18"** to build the next one)
+- ✅ **m18 — Object Store + Key-Value Store (S3 / DynamoDB)** (built)
+- ⬜ m19–m36 (say **"Module 19"** to build the next one)
 
 > Built one module at a time, in depth, with cross-questions and exercises — the way the AI/ML
 > notes were built. Quality over speed.

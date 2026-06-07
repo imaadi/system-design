@@ -109,10 +109,11 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
 - **m15 — Notification System** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m16 — Typeahead / Autocomplete + Search** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m17 — Web Crawler** (README + CROSS_QUESTIONS + EXERCISES + solutions).
+- **m18 — Object Store + Key-Value Store (S3 / DynamoDB)** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 
 **PENDING ⬜**
-- m18–m36 (rest of Part 2 classic problems, Part 3 ML, Part 4 LLM, Part 5 capstone). Build **on the
-  learner's signal** ("Module 18", etc.), one at a time, in depth.
+- m19–m36 (rest of Part 2 classic problems, Part 3 ML, Part 4 LLM, Part 5 capstone). Build **on the
+  learner's signal** ("Module 19", etc.), one at a time, in depth.
 
 ---
 
