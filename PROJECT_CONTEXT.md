@@ -116,10 +116,11 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
   → **PART 2 COMPLETE (m11–m21): all 11 classic design problems.**
 - **m22 — ML System Design Framework** (README + CROSS_QUESTIONS + EXERCISES + solutions). *Part 3 begins —
   the ML-specific method; m23–m28 apply it.*
+- **m23 — Data & Feature Pipelines / Feature Stores** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 
 **PENDING ⬜**
-- m23–m36 (rest of Part 3 ML [m23–m28], Part 4 LLM [m29–m34], Part 5 capstone [m35–m36]). Build **on the
-  learner's signal** ("Module 23", etc.), one at a time, in depth. NOTE: Part 3 is where his AI/ML
+- m24–m36 (rest of Part 3 ML [m24–m28], Part 4 LLM [m29–m34], Part 5 capstone [m35–m36]). Build **on the
+  learner's signal** ("Module 24", etc.), one at a time, in depth. NOTE: Part 3 is where his AI/ML
   background leads — lean into the InsightDesk/DCE experience.
 
 ---
