@@ -165,7 +165,8 @@ Legend: ⭐ = especially high-value for AI/ML/LLM interviews · 🏭 = maps dire
 - ✅ **m19 — Video Streaming (YouTube/Netflix)** (built)
 - ✅ **m20 — Proximity / Ride-hailing (Uber/Yelp/Maps)** (built)
 - ✅ **m21 — Payment System / Ledger** (built) — *Part 2 complete ✅ (m11–m21)*
-- ⬜ m22–m36 (say **"Module 22"** to build the next one — starts Part 3: ML system design)
+- ✅ **m22 — ML System Design Framework** (built) — *Part 3 begins*
+- ⬜ m23–m36 (say **"Module 23"** to build the next one)
 
 > Built one module at a time, in depth, with cross-questions and exercises — the way the AI/ML
 > notes were built. Quality over speed.
