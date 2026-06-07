@@ -112,10 +112,13 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
 - **m18 — Object Store + Key-Value Store (S3 / DynamoDB)** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m19 — Video Streaming (YouTube/Netflix)** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m20 — Proximity / Ride-hailing (Uber/Yelp/Maps)** (README + CROSS_QUESTIONS + EXERCISES + solutions).
+- **m21 — Payment System / Ledger** (README + CROSS_QUESTIONS + EXERCISES + solutions).
+  → **PART 2 COMPLETE (m11–m21): all 11 classic design problems.**
 
 **PENDING ⬜**
-- m21 (Payments/Ledger — closes Part 2), then m22–m36 (Part 3 ML, Part 4 LLM, Part 5 capstone). Build **on
-  the learner's signal** ("Module 21", etc.), one at a time, in depth.
+- m22–m36 (Part 3 ML system design [m22–m28], Part 4 LLM [m29–m34], Part 5 capstone [m35–m36]). Build **on
+  the learner's signal** ("Module 22", etc.), one at a time, in depth. NOTE: Part 3 is where his AI/ML
+  background leads — lean into the InsightDesk/DCE experience.
 
 ---
 

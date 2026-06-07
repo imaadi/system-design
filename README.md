@@ -164,7 +164,8 @@ Legend: ⭐ = especially high-value for AI/ML/LLM interviews · 🏭 = maps dire
 - ✅ **m18 — Object Store + Key-Value Store (S3 / DynamoDB)** (built)
 - ✅ **m19 — Video Streaming (YouTube/Netflix)** (built)
 - ✅ **m20 — Proximity / Ride-hailing (Uber/Yelp/Maps)** (built)
-- ⬜ m21–m36 (say **"Module 21"** to build the next one — m21 closes Part 2)
+- ✅ **m21 — Payment System / Ledger** (built) — *Part 2 complete ✅ (m11–m21)*
+- ⬜ m22–m36 (say **"Module 22"** to build the next one — starts Part 3: ML system design)
 
 > Built one module at a time, in depth, with cross-questions and exercises — the way the AI/ML
 > notes were built. Quality over speed.
