@@ -168,7 +168,8 @@ Legend: ⭐ = especially high-value for AI/ML/LLM interviews · 🏭 = maps dire
 - ✅ **m22 — ML System Design Framework** (built) — *Part 3 begins*
 - ✅ **m23 — Data & Feature Pipelines / Feature Stores** (built)
 - ✅ **m24 — Model Serving & Inference at Scale** (built)
-- ⬜ m25–m36 (say **"Module 25"** to build the next one)
+- ✅ **m25 — Recommendation System** (built)
+- ⬜ m26–m36 (say **"Module 26"** to build the next one)
 
 > Built one module at a time, in depth, with cross-questions and exercises — the way the AI/ML
 > notes were built. Quality over speed.
