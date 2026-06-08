@@ -127,10 +127,11 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
 - **m29 — LLM Serving & Inference** (README + CROSS_QUESTIONS + EXERCISES + solutions). *Part 4 begins.*
 - **m30 — Production RAG at Scale** (README + CROSS_QUESTIONS + EXERCISES + solutions). *His centerpiece —
   he built InsightDesk RAG end-to-end (chunking/hybrid/rerank/grounding/eval).*
+- **m31 — LLM Chatbot / Assistant** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 
 **PENDING ⬜**
-- m31–m36 (rest of Part 4 LLM [m31–m34], Part 5 capstone [m35–m36]). Build **on the learner's signal**
-  ("Module 31", etc.), one at a time, in depth. NOTE: Part 4 is the 2026 differentiator — he has RAG/agents/
+- m32–m36 (rest of Part 4 LLM [m32–m34], Part 5 capstone [m35–m36]). Build **on the learner's signal**
+  ("Module 32", etc.), one at a time, in depth. NOTE: Part 4 is the 2026 differentiator — he has RAG/agents/
   eval AI/ML notes to lean on.
 
 ---
