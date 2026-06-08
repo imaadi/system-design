@@ -124,11 +124,12 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
   directly-lived module — DCE IS a rules+ML hybrid 3-way decision engine.*
 - **m28 — ML Platform / MLOps End-to-End** (README + CROSS_QUESTIONS + EXERCISES + solutions).
   → **PART 3 COMPLETE (m22–m28): ML system design.** (He built this in InsightDesk + operates at DCE.)
+- **m29 — LLM Serving & Inference** (README + CROSS_QUESTIONS + EXERCISES + solutions). *Part 4 begins.*
 
 **PENDING ⬜**
-- m29–m36 (Part 4 LLM [m29–m34], Part 5 capstone [m35–m36]). Build **on the learner's signal** ("Module
-  29", etc.), one at a time, in depth. NOTE: Part 4 is the 2026 differentiator — he has RAG/agents/eval
-  AI/ML notes to lean on.
+- m30–m36 (rest of Part 4 LLM [m30–m34], Part 5 capstone [m35–m36]). Build **on the learner's signal**
+  ("Module 30", etc.), one at a time, in depth. NOTE: Part 4 is the 2026 differentiator — he has RAG/agents/
+  eval AI/ML notes to lean on.
 
 ---
 
