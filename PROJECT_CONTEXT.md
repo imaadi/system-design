@@ -119,10 +119,11 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
 - **m23 — Data & Feature Pipelines / Feature Stores** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m24 — Model Serving & Inference at Scale** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m25 — Recommendation System** (README + CROSS_QUESTIONS + EXERCISES + solutions).
+- **m26 — Feed Ranking & Ads / CTR Prediction** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 
 **PENDING ⬜**
-- m26–m36 (rest of Part 3 ML [m26–m28], Part 4 LLM [m29–m34], Part 5 capstone [m35–m36]). Build **on the
-  learner's signal** ("Module 26", etc.), one at a time, in depth. NOTE: Part 3 is where his AI/ML
+- m27–m36 (rest of Part 3 ML [m27–m28], Part 4 LLM [m29–m34], Part 5 capstone [m35–m36]). Build **on the
+  learner's signal** ("Module 27", etc.), one at a time, in depth. NOTE: Part 3 is where his AI/ML
   background leads — lean into the InsightDesk/DCE experience (esp. embeddings/vector-DB = recsys retrieval).
 
 ---
