@@ -122,10 +122,13 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
 - **m26 — Feed Ranking & Ads / CTR Prediction** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m27 — Fraud & Anomaly Detection** (README + CROSS_QUESTIONS + EXERCISES + solutions). *His most-
   directly-lived module — DCE IS a rules+ML hybrid 3-way decision engine.*
+- **m28 — ML Platform / MLOps End-to-End** (README + CROSS_QUESTIONS + EXERCISES + solutions).
+  → **PART 3 COMPLETE (m22–m28): ML system design.** (He built this in InsightDesk + operates at DCE.)
 
 **PENDING ⬜**
-- m28 (ML Platform/MLOps — closes Part 3), then Part 4 LLM [m29–m34], Part 5 capstone [m35–m36]. Build **on
-  the learner's signal** ("Module 28", etc.), one at a time, in depth.
+- m29–m36 (Part 4 LLM [m29–m34], Part 5 capstone [m35–m36]). Build **on the learner's signal** ("Module
+  29", etc.), one at a time, in depth. NOTE: Part 4 is the 2026 differentiator — he has RAG/agents/eval
+  AI/ML notes to lean on.
 
 ---
 

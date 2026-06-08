@@ -171,7 +171,8 @@ Legend: ⭐ = especially high-value for AI/ML/LLM interviews · 🏭 = maps dire
 - ✅ **m25 — Recommendation System** (built)
 - ✅ **m26 — Feed Ranking & Ads / CTR Prediction** (built)
 - ✅ **m27 — Fraud & Anomaly Detection** (built)
-- ⬜ m28–m36 (say **"Module 28"** to build the next one)
+- ✅ **m28 — ML Platform / MLOps End-to-End** (built) — *Part 3 complete ✅ (m22–m28)*
+- ⬜ m29–m36 (say **"Module 29"** to build the next one — starts Part 4: LLM system design)
 
 > Built one module at a time, in depth, with cross-questions and exercises — the way the AI/ML
 > notes were built. Quality over speed.
