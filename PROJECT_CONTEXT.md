@@ -130,11 +130,11 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
 - **m31 — LLM Chatbot / Assistant** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m32 — Agentic Systems** (README + CROSS_QUESTIONS + EXERCISES + solutions). *He built a multi-tool
   LangGraph agent in InsightDesk.*
+- **m33 — LLM Gateway / Platform** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 
 **PENDING ⬜**
-- m33–m36 (rest of Part 4 LLM [m33–m34], Part 5 capstone [m35–m36]). Build **on the learner's signal**
-  ("Module 33", etc.), one at a time, in depth. NOTE: Part 4 is the 2026 differentiator — he has RAG/agents/
-  eval AI/ML notes to lean on.
+- m34 (LLM Eval & Safety — closes Part 4), then Part 5 capstone [m35–m36]. Build **on the learner's signal**
+  ("Module 34", etc.), one at a time, in depth.
 
 ---
 

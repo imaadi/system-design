@@ -176,7 +176,8 @@ Legend: ⭐ = especially high-value for AI/ML/LLM interviews · 🏭 = maps dire
 - ✅ **m30 — Production RAG at Scale** (built)
 - ✅ **m31 — LLM Chatbot / Assistant** (built)
 - ✅ **m32 — Agentic Systems** (built)
-- ⬜ m33–m36 (say **"Module 33"** to build the next one)
+- ✅ **m33 — LLM Gateway / Platform** (built)
+- ⬜ m34–m36 (say **"Module 34"** to build the next one)
 
 > Built one module at a time, in depth, with cross-questions and exercises — the way the AI/ML
 > notes were built. Quality over speed.
