@@ -178,7 +178,8 @@ Legend: ⭐ = especially high-value for AI/ML/LLM interviews · 🏭 = maps dire
 - ✅ **m32 — Agentic Systems** (built)
 - ✅ **m33 — LLM Gateway / Platform** (built)
 - ✅ **m34 — LLM Evaluation & Safety in Production** (built) — *Part 4 complete ✅ (m29–m34)*
-- ⬜ m35–m36 (say **"Module 35"** to build the next one — starts Part 5: capstone & interview)
+- ✅ **m35 — Your Systems as Case Studies** (built) — *Part 5 begins*
+- ⬜ m36 (say **"Module 36"** for the final module — completes the curriculum)
 
 > Built one module at a time, in depth, with cross-questions and exercises — the way the AI/ML
 > notes were built. Quality over speed.

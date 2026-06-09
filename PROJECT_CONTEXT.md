@@ -133,11 +133,12 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
 - **m33 — LLM Gateway / Platform** (README + CROSS_QUESTIONS + EXERCISES + solutions).
 - **m34 — LLM Evaluation & Safety in Production** (README + CROSS_QUESTIONS + EXERCISES + solutions).
   → **PART 4 COMPLETE (m29–m34): LLM system design.** (He built the eval half from scratch in InsightDesk.)
+- **m35 — Your Systems as Case Studies** (README + CROSS_QUESTIONS + EXERCISES + solutions/story-bank).
+  *DCE + Questimate as interview-grade walkthroughs — his biggest edge.*
 
 **PENDING ⬜**
-- m35 (Your Systems as Case Studies — Questimate/DCE walkthroughs) + m36 (Mock interview/cheat-sheets) =
-  Part 5 capstone. Build **on the learner's signal** ("Module 35", etc.). After m36, the 36-module
-  curriculum is COMPLETE.
+- m36 (Mock Interview Drills + Cheat-Sheets + Rapid-Fire) = the FINAL module. Build **on the learner's
+  signal** ("Module 36"). **After m36, the 36-module curriculum is COMPLETE.**
 
 ---
 
