@@ -131,10 +131,13 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
 - **m32 — Agentic Systems** (README + CROSS_QUESTIONS + EXERCISES + solutions). *He built a multi-tool
   LangGraph agent in InsightDesk.*
 - **m33 — LLM Gateway / Platform** (README + CROSS_QUESTIONS + EXERCISES + solutions).
+- **m34 — LLM Evaluation & Safety in Production** (README + CROSS_QUESTIONS + EXERCISES + solutions).
+  → **PART 4 COMPLETE (m29–m34): LLM system design.** (He built the eval half from scratch in InsightDesk.)
 
 **PENDING ⬜**
-- m34 (LLM Eval & Safety — closes Part 4), then Part 5 capstone [m35–m36]. Build **on the learner's signal**
-  ("Module 34", etc.), one at a time, in depth.
+- m35 (Your Systems as Case Studies — Questimate/DCE walkthroughs) + m36 (Mock interview/cheat-sheets) =
+  Part 5 capstone. Build **on the learner's signal** ("Module 35", etc.). After m36, the 36-module
+  curriculum is COMPLETE.
 
 ---
 
