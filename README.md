@@ -179,7 +179,9 @@ Legend: ⭐ = especially high-value for AI/ML/LLM interviews · 🏭 = maps dire
 - ✅ **m33 — LLM Gateway / Platform** (built)
 - ✅ **m34 — LLM Evaluation & Safety in Production** (built) — *Part 4 complete ✅ (m29–m34)*
 - ✅ **m35 — Your Systems as Case Studies** (built) — *Part 5 begins*
-- ⬜ m36 (say **"Module 36"** for the final module — completes the curriculum)
+- ✅ **m36 — Mock Interview Drills + Cheat-Sheets + Rapid-Fire** (built)
+- 🎓 **CURRICULUM COMPLETE — all 36 modules built (m01–m36), 5 parts, each with README + CROSS_QUESTIONS +
+  EXERCISES + solutions.** 🏁 Re-run the m36 mocks before each interview.
 
 > Built one module at a time, in depth, with cross-questions and exercises — the way the AI/ML
 > notes were built. Quality over speed.

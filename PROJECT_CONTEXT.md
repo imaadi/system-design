@@ -135,10 +135,13 @@ trade-offs), and CROSS_QUESTIONS pushes the follow-ups.
   → **PART 4 COMPLETE (m29–m34): LLM system design.** (He built the eval half from scratch in InsightDesk.)
 - **m35 — Your Systems as Case Studies** (README + CROSS_QUESTIONS + EXERCISES + solutions/story-bank).
   *DCE + Questimate as interview-grade walkthroughs — his biggest edge.*
+- **m36 — Mock Interview Drills + Cheat-Sheets + Rapid-Fire** (README playbook+cheat-sheets + CROSS_QUESTIONS
+  60-item rapid-fire + EXERCISES 30-prompt mock bank + solutions rubric/checklist).
+  → **🎓 CURRICULUM COMPLETE — all 36 modules (m01–m36) built, 5 parts.** 🏁
 
 **PENDING ⬜**
-- m36 (Mock Interview Drills + Cheat-Sheets + Rapid-Fire) = the FINAL module. Build **on the learner's
-  signal** ("Module 36"). **After m36, the 36-module curriculum is COMPLETE.**
+- **Nothing — the 36-module curriculum is COMPLETE.** Future work = maintenance/refinement only, or new
+  modules if he requests them (e.g. deeper dives, more mock problems, a specific company's question bank).
 
 ---
 
